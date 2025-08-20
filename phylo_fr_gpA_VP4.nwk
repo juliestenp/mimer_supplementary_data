@@ -1,0 +1,5 @@
+(lcl_AF306496.1_prot_AAG45349.1_1_protein=Vp4_phiMH2K:1.817,
+(((YP_009497836.1_unnamed_protein_product_Escherichia_phage_G4:0.08288,
+NP_040703.1_DNA_replication_initiation_Escherichia_phage_phiX174:0.1162)
+0.95:0.1493,gpA:0.6234)0.48:0.12,
+NP_039590.1_replication_initiation_protein_Escherichia_phage_alp:0.2957):1.074);
