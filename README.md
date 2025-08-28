@@ -1,4 +1,4 @@
-# Supplementary Material – *The first single-stranded DNA virus targeting Pectobacterium belongs to the family Microviridae and demonstrates a broad hostrange to Pectobacterium brasiliense isolates *
+# Supplementary Material – *The first single-stranded DNA virus targeting Pectobacterium belongs to the family Microviridae and demonstrates a broad hostrange to Pectobacterium brasiliense isolates*
 
 This repository contains supplementary data associated with the manuscript:  
 **“First single-stranded DNA Microvirus targeting *Pectobacterium* belonging to the subfamily *Bullavirinae***”  
