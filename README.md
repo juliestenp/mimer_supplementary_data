@@ -2,7 +2,7 @@
 
 This repository contains supplementary data associated with the manuscript:  
 **“First single-stranded DNA Microvirus targeting *Pectobacterium* belonging to the subfamily *Bullavirinae***”  
-(doi: 10.1007/s00705-026-06543-2)
+([DOI: 10.1007/s00705-026-06543-2](https://doi.org/10.1007/s00705-026-06543-2))
 
 The material includes protein structure and phylogenetic analyses performed on major proteins from genus representatives within the subfamily *Bullavirinae* (family *Microviridae*), with **phage phiMH2K** used as the outgroup in all analyses.  
 
