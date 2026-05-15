@@ -2,7 +2,7 @@
 
 This repository contains supplementary data associated with the manuscript:  
 **“First single-stranded DNA Microvirus targeting *Pectobacterium* belonging to the subfamily *Bullavirinae***”  
-(Currently under review / not yet published)
+(doi: 10.1007/s00705-026-06543-2)
 
 The material includes protein structure and phylogenetic analyses performed on major proteins from genus representatives within the subfamily *Bullavirinae* (family *Microviridae*), with **phage phiMH2K** used as the outgroup in all analyses.  
 
@@ -35,8 +35,7 @@ Contains phylogenetic analysis files generated using **Phylogeny.fr** (One Click
 
 ---
 
-## Citation  
-If you use these files, please cite the upcoming publication:  
+> ## Citation  
+If you use these files, please cite the following publication:  
 
-> *First single-stranded DNA Microvirus targeting Pectobacterium belonging to the subfamily Bullavirinae*  
-> [Authors, Year, Journal – to be updated upon publication]  
+Pedersen JS, Carstens AB, Rothgardt M, Viry A, Hille F, Franz CMAP, Kot W, Egorov A, Atkinson G, Hansen LH. The first single-stranded DNA virus targeting Pectobacterium belongs to the family Microviridae and demonstrates a broad host range to Pectobacterium brasiliense soft rot pathogens. *Arch Virol.* 2026 Feb 25;171(3):97. [DOI: 10.1007/s00705-026-06543-2](https://doi.org/10.1007/s00705-026-06543-2), [PMC: PMC12935840](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12935840/).
